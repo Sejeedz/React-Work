@@ -2,6 +2,6 @@
 
 Trying to learn a couple React things
 
-Profile Card: https://codesandbox.io/s/profile-card-v1-nthsns
+Profile Card: https://codesandbox.io/s/profile-card-nthsns
 
-Date Counter: https://codesandbox.io/s/date-counter-v1-w5h8lc 
+Date Counter: https://codesandbox.io/s/date-counter-w5h8lc 
