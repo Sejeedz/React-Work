@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,19 +22,67 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "id": "5e99",
+      "cityName": "Lorca",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-20T00:49:10.091Z",
+      "notes": "wow\n",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
+        "lat": "37.64903402157866",
+        "lng": "-1.8896484375000002"
+      }
+    },
+    {
+      "id": "bab0",
+      "cityName": "Boca de Huergano",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-20T00:56:15.480Z",
+      "notes": "hoh",
+      "position": {
+        "lat": "43.03677585761058",
+        "lng": "-4.746093750000001"
+      }
+    },
+    {
+      "id": "5065",
+      "cityName": "Coria del Rio",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-20T01:07:23.290Z",
+      "notes": "",
+      "position": {
+        "lat": "37.23032838760387",
+        "lng": "-6.04248046875"
+      }
+    },
+    {
+      "id": "2182",
+      "cityName": "Labastide-Villefranche",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-09-20T01:07:34.553Z",
+      "notes": "",
+      "position": {
+        "lat": "43.46886761482925",
+        "lng": "-1.0327148437500002"
+      }
+    },
+    {
+      "id": "9c75",
+      "cityName": "Burguillos del Cerro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-20T01:09:53.775Z",
+      "notes": "",
+      "position": {
+        "lat": "38.39333888832238",
+        "lng": "-6.591796875000001"
+      }
     }
   ]
 }
