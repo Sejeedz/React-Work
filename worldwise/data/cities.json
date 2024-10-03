@@ -37,42 +37,6 @@
       }
     },
     {
-      "id": "bab0",
-      "cityName": "Boca de Huergano",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-09-20T00:56:15.480Z",
-      "notes": "hoh",
-      "position": {
-        "lat": "43.03677585761058",
-        "lng": "-4.746093750000001"
-      }
-    },
-    {
-      "id": "5065",
-      "cityName": "Coria del Rio",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-09-20T01:07:23.290Z",
-      "notes": "",
-      "position": {
-        "lat": "37.23032838760387",
-        "lng": "-6.04248046875"
-      }
-    },
-    {
-      "id": "2182",
-      "cityName": "Labastide-Villefranche",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-09-20T01:07:34.553Z",
-      "notes": "",
-      "position": {
-        "lat": "43.46886761482925",
-        "lng": "-1.0327148437500002"
-      }
-    },
-    {
       "id": "9c75",
       "cityName": "Burguillos del Cerro",
       "country": "Spain",
@@ -82,6 +46,30 @@
       "position": {
         "lat": "38.39333888832238",
         "lng": "-6.591796875000001"
+      }
+    },
+    {
+      "id": "4de6",
+      "cityName": "Conca de Dalt",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-02T15:40:43.068Z",
+      "notes": "amazing",
+      "position": {
+        "lat": "42.22851735620852",
+        "lng": "1.0546875000000002"
+      }
+    },
+    {
+      "id": "efb7",
+      "cityName": "Islamabad",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2024-10-02T15:42:03.272Z",
+      "notes": "burger",
+      "position": {
+        "lat": "33.69235234723729",
+        "lng": "73.08105468750001"
       }
     }
   ]
