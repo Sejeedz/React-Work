@@ -27,7 +27,6 @@ function PostProvider({ children }) {
   function handleAddPost(post) {
     setPosts((posts) => [post, ...posts]);
   }
-
   function handleClearPosts() {
     setPosts([]);
   }
